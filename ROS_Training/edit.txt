@@ -1,6 +1,0 @@
-$ source ./devel/setup.bash
-
-
-
-$ rosrun beginner_tutorials listener     (C++)
-$ rosrun beginner_tutorials listener.py  (Python) 
